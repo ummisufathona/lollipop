@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "223383690737",
+    "firebase_url": "https://lollipop-f6abf.firebaseio.com",
+    "project_id": "lollipop-f6abf",
+    "storage_bucket": "lollipop-f6abf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223383690737:android:19a0586376a98be7d43850",
+        "android_client_info": {
+          "package_name": "com.teknokrat.mobile2019.ti17a17313044.lollipop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223383690737-noalcfbnaqel292mp3v0j3ufg9stipbi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teknokrat.mobile2019.ti17a17313044.lollipop",
+            "certificate_hash": "a6296d30736f56cb41282436aa2540081da312ef"
+          }
+        },
+        {
+          "client_id": "223383690737-rcm6odmkhuqa95lvsdafinrf1j8sq8ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi0IrBmK14vyYQykN8M4LREtRYjOYVf_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223383690737-rcm6odmkhuqa95lvsdafinrf1j8sq8ul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
